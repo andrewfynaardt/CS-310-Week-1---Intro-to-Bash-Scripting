@@ -1,11 +1,11 @@
 # CS 310 - W1 Intro to Bash Scripting
 
-By Andrew Fynaardt, original by Ian Kollipara
+By Andrew Fynaardt, original by Ian Kollipara during class.
 
 ## What does `man` command allow you to do?
-Allows us to read documentation on a specific coreutil command or library.
+The `man` command Allows us to read documentation on a specific coreutil command or library.
 ## What does it mean to mmake a bash script "executable"?
-To make the script runnable in the terminal.
+Making a bash script executable means making the script runnable in the terminal.
 A runnable script executes each command, line by line.
 
 To make a file executable we run:
